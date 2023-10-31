@@ -7,7 +7,7 @@ p {
     padding: 0px;
     width: 100vw;
     height: 100hw;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 * {
